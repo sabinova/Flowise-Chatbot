@@ -31,7 +31,7 @@ Three documents covering MITRE ATT&CK Enterprise tactics, each containing techni
 ## Repository Structure
 
 ```
-week-07-Flowise-Chatbot/
+Flowise-Chatbot/
 ├── README.md
 ├── report.md
 ├── screenshots/
